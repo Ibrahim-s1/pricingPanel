@@ -1,2 +1,5 @@
 # pricingPanel
-codealong with colt steele (udemy) 
+
+Codealong with colt steele (udemy)
+
+focus was to create a responsive site
